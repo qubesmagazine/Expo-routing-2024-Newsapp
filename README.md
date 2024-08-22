@@ -79,6 +79,3 @@ export default TabsLayout;
 
 With Expo SDK 51 and its Router, full stack mobile app development is more accessible than ever. Follow along with this project to see how simple and powerful Expo Router can be.
 
----
-
-Add this to your GitHub README to help others understand and navigate the project more effectively.
