@@ -82,7 +82,7 @@ const styles = StyleSheet.create({
     fontSize: 42,
     color: '#fff',
     fontWeight: '1000', // Bolder and thicker text
-    fontFamily: "bold",
+    fontFamily: "SpaceGroteskMedium",
   },
   bottomHalf: {
     flex: 1,
@@ -93,7 +93,7 @@ const styles = StyleSheet.create({
   },
   titleText: {
     fontSize: 24,
-    fontFamily: "Poppins-Black",
+    fontFamily: "SpaceGroteskMedium",
     fontWeight: 'bold',
     color: 'black',
     textAlign: 'center',
@@ -101,7 +101,7 @@ const styles = StyleSheet.create({
   },
   descriptionText: {
     fontSize: 16,
-    fontFamily: "Poppins-Black",
+    fontFamily: "SpaceGroteskBold",
     fontWeight: 'bold',
     color: 'black',
     lineHeight: 20,

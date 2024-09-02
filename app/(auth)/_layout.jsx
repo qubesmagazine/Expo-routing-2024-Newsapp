@@ -20,7 +20,7 @@ function App() {
           options={{ headerShown: false }}
         />
                  <Stack.Screen
-          name="searchScreenn"
+          name="searchScreen"
           options={{ headerShown: false }}
         />
                          <Stack.Screen
